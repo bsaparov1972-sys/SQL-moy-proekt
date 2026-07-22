@@ -104,8 +104,5 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoCol
+Hi there! I'm **Saparov Berdakh Seytmuratovich**, also known as **SBC 2402**. I am an economist and a modern analyst!
+Let's stay in touch! Do not hesitate to contact me by mail: bsaparov1972@gmail.com
